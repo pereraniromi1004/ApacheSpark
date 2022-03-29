@@ -6,6 +6,9 @@ Time-series are an important part of data science applications, but are notoriou
 Introducing Flint: A time-series library for Apache Spark
 
 Time Series Analysis
+
+
+
 Time series analysis has two components: time series manipulation and time series modeling.
 
 Time series manipulation is the process of manipulating and transforming data into features for training a model. Time series manipulation is used for tasks like data cleaning and feature engineering. Typical functions in time series manipulation include:
